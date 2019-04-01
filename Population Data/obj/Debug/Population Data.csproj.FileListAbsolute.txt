@@ -1,0 +1,15 @@
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\bin\Debug\Population Data.exe.config
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\bin\Debug\Population Data.exe
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\bin\Debug\Population Data.pdb
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\Population Data.csprojAssemblyReference.cache
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\MainWindow.g.cs
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\App.g.cs
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\Population Data_MarkupCompile.cache
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\Population Data_MarkupCompile.lref
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\MainWindow.baml
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\Population Data.g.resources
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\Population_Data.Properties.Resources.resources
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\Population Data.csproj.GenerateResource.cache
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\Population Data.csproj.CoreCompileInputs.cache
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\Population Data.exe
+C:\Users\billx\Desktop\PROG 8010\Week 8\Population Data\Population Data\obj\Debug\Population Data.pdb
